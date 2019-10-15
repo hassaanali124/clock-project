@@ -1,6 +1,7 @@
 :root{
-  --size: 200px;
+  --size: 450px;
 }
+
 
 #clock{
   width: var(--size);
@@ -151,3 +152,4 @@
 .num12 div{
   transform: rotate(-0deg);
 }
+
