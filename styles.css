@@ -13,18 +13,18 @@
 
 #sec-hand {
   width: 1px;
-  height: 50%;
+  height: 40%;
   background-color: black;
   transform-origin: 50% 80%;
   position: absolute;
-  top: 10%;
+  top: 18%;
   left: 50%;
 }
 
 #min-hand {
   width: 3px;
   height: 40%;
-  background-color: blue;
+  background-color: black;
   transform-origin: 50% 80%;
   position: absolute;
   top: 18%;
@@ -34,12 +34,12 @@
 #hr-hand {
   width: 5px;
   height: 25%;
-  background-color: red;
+  background-color: black;
   transform-origin: 50% 80%;
   position: absolute;
   top: 30%;
   left: calc(50% + -2px);
 }
 .i {
-  margin: 30px 20px -25px -34px;
+  margin: 30px 20px -25px -29px;
 }
