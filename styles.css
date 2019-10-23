@@ -9,6 +9,7 @@
   width: var(--size);
   height: var(--size);
   position: relative;
+  margin-left: 350px;
 }
 
 #sec-hand {
